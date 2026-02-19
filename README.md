@@ -1,5 +1,7 @@
 # 🚀 Space Shooter - FPS Mod for Luanti
 
+![Luanti Space Shooter](logo.png)
+
 A wave-based first-person space shooter mod for [Luanti](https://www.luanti.org/) (formerly Minetest). Fight off alien invaders in a space station arena!
 
 ## Features
